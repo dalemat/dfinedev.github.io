@@ -4,11 +4,11 @@
     "properties": {
         "name": {
             "type": "string",
-            "description": "COPPER COINS NFT"
+            "description": "Copper Coins NFT"
         },
         "description": {
             "type": "string",
-            "description": "Royal Merchants use this for trading. 0.15X mining power. only 10000 available"
+            "description": "Royal Merchants use these coins for trading. 0.15X mining power. only 10000 available"
         },
         "image": {
             "type": "string",
