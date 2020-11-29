@@ -4,7 +4,7 @@
     "properties": {
         "name": {
             "type": "string",
-            "description": "BRONZE COINS NFT"
+            "description": "Bronze Coins NFT"
         },
         "description": {
             "type": "string",
