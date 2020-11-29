@@ -12,7 +12,7 @@
         },
         "image": {
             "type": "string",
-            "description": "http://i.xp.io/1Jy28cMi.png"
+            "description": "https://dfinedev.github.io/dnft/img/1.png"
         }
     }
 }
