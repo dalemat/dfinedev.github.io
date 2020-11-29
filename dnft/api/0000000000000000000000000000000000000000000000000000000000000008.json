@@ -1,0 +1,18 @@
+{
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "SILVER COINS NFT"
+        },
+        "description": {
+            "type": "string",
+            "description": "Always found in Kings Palace 0.3X mining power?  only 7000 available"
+        },
+        "image": {
+            "type": "string",
+            "description": "http://i.xp.io/1RQClIqp.png"
+        }
+    }
+}

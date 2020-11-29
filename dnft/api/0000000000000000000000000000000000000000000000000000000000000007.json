@@ -1,0 +1,18 @@
+{
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "GOLD COINS NFT"
+        },
+        "description": {
+            "type": "string",
+            "description": "These are coins for Royalty only found in the palace. 0.5X mining power. only 5000 available"
+        },
+        "image": {
+            "type": "string",
+            "description": "http://i.xp.io/1RQoqCEE.png"
+        }
+    }
+}

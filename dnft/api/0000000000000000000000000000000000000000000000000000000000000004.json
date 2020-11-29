@@ -1,0 +1,18 @@
+{
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Governors Treasure NFT"
+        },
+        "description": {
+            "type": "string",
+            "description": "Governors Treasure is yet another DFINE NFT with a Mining Power of 10X. Only 100 tokens Available"
+        },
+        "image": {
+            "type": "string",
+            "description": "http://i.xp.io/1GFYooHl.png"
+        }
+    }
+}

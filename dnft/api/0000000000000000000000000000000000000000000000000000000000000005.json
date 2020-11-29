@@ -1,0 +1,18 @@
+{
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Captains Treasure NFT"
+        },
+        "description": {
+            "type": "string",
+            "description": "Captains Treasure is yet another DFINE NFT with a Mining Power of 3X. Only 200 Tokens Available"
+        },
+        "image": {
+            "type": "string",
+            "description": "http://i.xp.io/1GG0frjd.png"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Emperors Treasure NFT"
+        },
+        "description": {
+            "type": "string",
+            "description": "Emperors Treasure is a very scarce DFINE NFT with a Mining Power of 40X. There will only be 20 tokens Available "
+        },
+        "image": {
+            "type": "string",
+            "description": "http://i.xp.io/1GFQMUTi.png"
+        }
+    }
+}

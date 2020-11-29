@@ -1,0 +1,18 @@
+{
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Citizens Treasure NFT"
+        },
+        "description": {
+            "type": "string",
+            "description": "Citizens Treasure gives you  1X Mining power. Only 1000 Tokens Available"
+        },
+        "image": {
+            "type": "string",
+            "description": "http://i.xp.io/1GG2IhFF.png"
+        }
+    }
+}
